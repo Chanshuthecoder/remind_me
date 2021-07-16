@@ -1,2 +1,3 @@
-# remind_me
-. a task scheduler and manage clubs/organisations notifications
+An android app project developed using Flutter and Firebase SDK, reminding the users about their work as per the schedule.
+– Complete User Authentication for two different profile types (student or Club), and check if the particular user is a student or a club and show the appropriate screens or details.
+– First feature, users (Student or Club) will be able to maintain a personal to-do list . – Any Club posts the information (in this app) regarding the events or any other activities, the students who has subscribed to that club should get a Push notification and also should be able to see the information regarding that post.
