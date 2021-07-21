@@ -3,7 +3,7 @@
 
     
 # Remind Me
-- An android app to remind the users about their works as per the schedule.
+- An android app to remind the students about their club events.
 - Complete User Authentication for two different profile types (student or Club).
 - Checks if the particular user is a student or a club and show the appropriate screens or details.
 - Users (Student or Club) will be able to maintain a personal to-do list .
